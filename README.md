@@ -1,5 +1,6 @@
-#  Mean and variance of a discrete  distribution
+DATE : 25.08.23
 
+# EX 1.  Mean and variance of a discrete  distribution
 
 # Aim : 
 
@@ -50,8 +51,10 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 ```
 DEVELOPED BY : M.N. SOUNDARIYAN
+
 REG:  212222230146
 ```
+
 ```python
 import numpy as np
 L=[int(i) for i in input().split()]
