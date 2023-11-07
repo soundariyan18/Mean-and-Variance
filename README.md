@@ -1,4 +1,4 @@
-DATE : 25.08.23
+DATE: 25.08.23
 
 # EX 1.  Mean and variance of a discrete  distribution
 
